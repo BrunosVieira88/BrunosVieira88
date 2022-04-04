@@ -1,4 +1,4 @@
-## 🧔Front-end Developer, actually learning unitary tests wit Junity
+## 🧔Front-end Developer, actually learning unitary tests with Junity
 <div align="center">
   <a href="https://github.com/BrunosVieira88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunosVieira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
