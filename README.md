@@ -3,7 +3,7 @@
 
 ### Oiê! Meu nome é , como vai você? 👋
 
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
 - 🤔 Estou procurando ajuda com projetos iniciais para fazer um bom portfólio.
 - ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Black Mirror** e meu jogo favorito é **Stardew Valley**.
@@ -13,9 +13,8 @@
 ### Hi there! I'm , how are you? 👋
 
 - 📚 Studying **Computer Systems Analysis and Development**
-- 🔭 I'm currently working on improving my skills.
-- 🤔 I'm looking for help with initial projects to make a nice portfolio.
-- ⚡ Fun fact: I like video games (most indie games), series and movies of various genres. My favorite series is **Black Mirror** and my favorite game is **Stardew Valley**.
+- 🔭 I'm always looking to improve my skills..
+- ⚡ Hobbyt: I like video games, series and movies of various genres. My favorite series is <br>Game of Thrones</br> and my favorite game is Skyrim.
 
 ##
 <br>
@@ -41,8 +40,9 @@
   ##
  
 <div>
-  <a href="mailto:vitoriadvalois@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vivi-Gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitoriadevalois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivi-Linkedin" target="_blank"></a>
+   <a href="https://www.instagram.com/dntwo2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href="mailto:brunosvieira88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/brunosantosvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/vitoriadevalois/vitoriadevalois/blob/output/github-contribution-grid-snake.svg)
  
