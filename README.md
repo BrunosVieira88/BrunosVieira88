@@ -1,7 +1,7 @@
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunosvieira88.visitor-badgee&color=green&style=flat-square">
 
-### Oiê! Meu nome é Bruno Santos Vieira , como vai você? 👋
+### Ola! Meu nome é Bruno Santos Vieira , como vai você? 👋
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
