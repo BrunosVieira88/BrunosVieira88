@@ -1,18 +1,18 @@
 
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vitoriadevalois.visitor-badgee&color=green&style=flat-square">
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunosvieira88.visitor-badgee&color=green&style=flat-square">
 
-### Oiê! Meu nome é Vitória, como vai você? 👋
+### Oiê! Meu nome é , como vai você? 👋
 
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** e **Pedagogia**.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
 - 🤔 Estou procurando ajuda com projetos iniciais para fazer um bom portfólio.
 - ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Black Mirror** e meu jogo favorito é **Stardew Valley**.
 
 ##
 
-### Hi there! I'm Vitória, how are you? 👋
+### Hi there! I'm , how are you? 👋
 
-- 📚 Studying **Computer Systems Analysis and Development**, also studying **Pedagogy**.
+- 📚 Studying **Computer Systems Analysis and Development**
 - 🔭 I'm currently working on improving my skills.
 - 🤔 I'm looking for help with initial projects to make a nice portfolio.
 - ⚡ Fun fact: I like video games (most indie games), series and movies of various genres. My favorite series is **Black Mirror** and my favorite game is **Stardew Valley**.
@@ -20,16 +20,22 @@
 ##
 <br>
 <div align="center">
-  <a href="https://github.com/vitoriadevalois">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriadevalois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadevalois&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/BrunosVieira88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunosVieira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunosVieira88&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vivi-icon" height="150" src="/gificonresize.gif">
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
   
   ##
