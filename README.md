@@ -1,7 +1,7 @@
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunosvieira88.visitor-badgee&color=green&style=flat-square">
 
-### Oiê! Meu nome é , como vai você? 👋
+### Oiê! Meu nome é Bruno Santos Vieira , como vai você? 👋
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
@@ -10,7 +10,7 @@
 
 ##
 
-### Hi there! I'm , how are you? 👋
+### Hi there! I'm Bruno Santos Vieira, how are you? 👋
 
 - 📚 Studying **Computer Systems Analysis and Development**
 - 🔭 I'm always looking to improve my skills..
@@ -44,6 +44,6 @@
      <a href="mailto:brunosvieira88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/brunosantosvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/vitoriadevalois/vitoriadevalois/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/brunosvieira88/brunosvieira88/blob/output/github-contribution-grid-snake.svg)
  
 </div>
