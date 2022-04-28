@@ -1,7 +1,7 @@
 
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brunosvieira88.visitor-badgee&color=green&style=flat-square">
 
-### Ola! Meu nome é Bruno Santos Vieira , como vai você? 👋
+### Olá! Meu nome é Bruno Santos Vieira , como vai você? 👋
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
@@ -11,7 +11,7 @@
 
 ### Hi there! I'm Bruno Santos Vieira, how are you? 👋
 
-- 📚 Studying **Computer Systems Analysis and Development**
+- 📚 Graduated  **Computer Systems Analysis and Development**
 - 🔭 I'm always looking to improve my skills..
 - ⚡ Hobbyt: I like video games, series and movies of various genres. My favorite series is <b>Game of Thrones</b> and my favorite game is <b>The Elder Scroll V Skyrim</b>.
 
