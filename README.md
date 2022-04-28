@@ -11,7 +11,7 @@
 
 ### Hi there! I'm Bruno Santos Vieira, how are you? 👋
 
-- 📚 Graduated  **Computer Systems Analysis and Development**
+- 📚 Graduated in **Computer Systems Analysis and Development**
 - 🔭 I'm always looking to improve my skills..
 - ⚡ Hobbyt: I like video games, series and movies of various genres. My favorite series is <b>Game of Thrones</b> and my favorite game is <b>The Elder Scroll V Skyrim</b>.
 
