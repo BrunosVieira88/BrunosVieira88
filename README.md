@@ -5,8 +5,7 @@
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
-- 🤔 Estou procurando ajuda com projetos iniciais para fazer um bom portfólio.
-- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Black Mirror** e meu jogo favorito é **Stardew Valley**.
+- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Game of Thrones** e meu jogo favorito é **The Elder Scroll V Skyrim **.
 
 ##
 
@@ -14,7 +13,7 @@
 
 - 📚 Studying **Computer Systems Analysis and Development**
 - 🔭 I'm always looking to improve my skills..
-- ⚡ Hobbyt: I like video games, series and movies of various genres. My favorite series is <br>Game of Thrones</br> and my favorite game is Skyrim.
+- ⚡ Hobbyt: I like video games, series and movies of various genres. My favorite series is <b>Game of Thrones</b> and my favorite game is <b>The Elder Scroll V Skyrim</b>.
 
 ##
 <br>
