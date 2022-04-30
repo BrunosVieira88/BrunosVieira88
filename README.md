@@ -5,7 +5,7 @@
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
-- :computer:  Atualmente trabalhando como desenvolvedor Fullstack na  CNT - Logística Trabalhando com as Tecnologias abaixo. 
+- :computer:  Atualmente trabalhando como desenvolvedor Fullstack na  CNT - Logística  com as Tecnologias abaixo. 
 - <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
