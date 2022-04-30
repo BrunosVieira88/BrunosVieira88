@@ -5,7 +5,7 @@
 
 - 📚 Formado em **Análise e Desenvolvimento de Sistemas**.
 - 🔭 Atualmente estou trabalhando em aprimorar minhas habilidades.
-- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é **Game of Thrones** e meu jogo favorito é **The Elder Scroll V Skyrim **.
+- ⚡ Curiosidades: gosto de videogames (principalmente jogos indie), séries e filmes de vários gêneros. Minha série favorita é <br>Game of Thrones</br> e meu jogo favorito é <br>The Elder Scroll V Skyrim </br>.
 
 ##
 
