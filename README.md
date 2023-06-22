@@ -43,7 +43,7 @@
 
 ##
 <br>
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/BrunosVieira88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunosVieira88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunosVieira88&layout=compact&langs_count=7&theme=dracula"/>
@@ -59,7 +59,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
--->
+
 </div>
   
   ##
